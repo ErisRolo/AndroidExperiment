@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContentProviderDemo</string>
+    <string name="ContentProvider">内容提供器</string>
+    <string name="getdata">获取数据</string>
+    <string name="update">修改</string>
+    <string name="query">查询</string>
+    <string name="username">账号</string>
+    <string name="email">邮箱</string>
+    <string name="sex">性别</string>
+    <string name="hobby">爱好</string>
+    <string name="birthday">生日</string>
+    <string name="query_selection">请输入查询的属性:</string>
+    <string name="query_content">请输入查询的内容:</string>
+    <string name="modify_username">请输入修改的账号:</string>
+    <string name="modify_selection">请输入修改的属性:</string>
+    <string name="modify_content">请输入修改的内容:</string>
+</resources>
